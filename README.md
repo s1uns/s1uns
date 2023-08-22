@@ -43,8 +43,7 @@ I'm just a 19 year old guy, whose passion is programming and creating something 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>   
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
@@ -66,14 +65,25 @@ I'm just a 19 year old guy, whose passion is programming and creating something 
 
 <br/> 
 
-<a href="https://github.com/s1uns" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1uns&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-<a href="http://www.github.com/s1uns"><img src="https://github-readme-stats.vercel.app/api?username=s1uns&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="s1uns's GitHub stats" /></a>
-<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=s1uns&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</a>
-[![Spotify](https://novatorem-xr5l-s1uns.vercel.app/api/spotify)](https://open.spotify.com/user/5b31a2fb9b5a4c8cbb62a17e594afdef)
+
+
+<table>
+  <tr>
+    <img width="115%" src="https://github-readme-stats.vercel.app/api?username=s1uns&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="s1uns's GitHub stats" />
+  </tr>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=s1uns&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s1uns&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
 
 ### Socials
-
+  [![image](https://www.codewars.com/users/s1uns/badges/large)](https://www.codewars.com/users/s1uns)
 <div style="display: flex; justify-content: center;">
   <p align="left">                                 
     <a href="https://discord.com/users/s1uns" target="_blank" rel="noreferrer"> 
@@ -121,9 +131,12 @@ I'm just a 19 year old guy, whose passion is programming and creating something 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
       </picture> 
     </a>
+<a href="https://www.codepen.io/s1uns1337" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a>
+    <a href="https://www.twitch.tv/s1uns1337" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a>
   </p>
 </div>
 
-  
-  ![image](https://www.codewars.com/users/s1uns/badges/large)
+  [![Spotify](https://novatorem-xr5l-s1uns.vercel.app/api/spotify)](https://open.spotify.com/user/5b31a2fb9b5a4c8cbb62a17e594afdef)
+
+ 
   
