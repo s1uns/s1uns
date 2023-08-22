@@ -9,6 +9,9 @@ I'm just a 19 year old guy, whose passion is programming and creating something 
 *   🌍  I'm based in Dnipro, Ukraine
 *   ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-illiateliuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/s1uns1337) [![Gmail Badge](https://img.shields.io/badge/-IlliaTeliuk-red?style=flat&logo=Gmail&logoColor=white)](mailto:illiateliuk@gmail.com)
 
+
+
+
 ## Skills  
 <table><tr><td valign="top" width="33%">
 
@@ -63,15 +66,64 @@ I'm just a 19 year old guy, whose passion is programming and creating something 
 
 <br/> 
 
-<img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=s1uns&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/s1uns" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1uns&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-### Codewars badge
-![image](https://www.codewars.com/users/s1uns/badges/large)
+<a href="https://github.com/s1uns" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1uns&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<a href="http://www.github.com/s1uns"><img src="https://github-readme-stats.vercel.app/api?username=s1uns&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="s1uns's GitHub stats" /></a>
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=s1uns&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</a>
+[![Spotify](https://novatorem-xr5l-s1uns.vercel.app/api/spotify)](https://open.spotify.com/user/5b31a2fb9b5a4c8cbb62a17e594afdef)
 
 ### Socials
 
-<p align="left"> 
-  <a href="https://www.leetcode.com/s1uns" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s1uns" height="35" width="35" /></a>
-  <a href="https://discord.com/users/s1uns" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/s1uns" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/s1uns1337" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/illiateliuk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/17173989/s1uns" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/s1uns1337" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<div style="display: flex; justify-content: center;">
+  <p align="left">                                 
+    <a href="https://discord.com/users/s1uns" target="_blank" rel="noreferrer"> 
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
+      </picture> 
+    </a>
+    <a href="https://www.leetcode.com/s1uns" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s1uns" height="35" width="35" />
+    </a>
+    <a href="https://www.github.com/s1uns" target="_blank" rel="noreferrer"> 
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+      </picture> 
+    </a> 
+    <a href="http://www.instagram.com/s1uns1337" target="_blank" rel="noreferrer"> 
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
+      </picture> 
+    </a> 
+    <a href="https://www.linkedin.com/in/illiateliuk" target="_blank" rel="noreferrer"> 
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+      </picture> 
+    </a> 
+    <a href="https://www.stackoverflow.com/users/17173989/s1uns" target="_blank" rel="noreferrer"> 
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> 
+      </picture> 
+    </a> 
+    <a href="https://www.x.com/s1uns1337" target="_blank" rel="noreferrer"> 
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
+      </picture> 
+    </a>
+  </p>
+</div>
+
+  
+  ![image](https://www.codewars.com/users/s1uns/badges/large)
   
