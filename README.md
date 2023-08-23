@@ -7,7 +7,7 @@ Fullstack .NET/React Developer
 I'm just a 19 year old guy, whose passion is programming and creating something new. I won't take your time with reading a huge article about default facts from a programming beginner. I just offer you my services and time, promising to do everything possible to accomplish your wish as fast and qualitatively as possible.
 
 *   :earth_africa: I'm based in Dnipro, Ukraine
-*   :neckbeard: Stydying at Kharkiv National University of Radioelectronics
+*   :neckbeard: Studying at Kharkiv National University of Radioelectronics
 *   :envelope: You can contact me at [![Telegram Badge](https://img.shields.io/badge/-illiateliuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/s1uns1337) / [![Gmail Badge](https://img.shields.io/badge/-IlliaTeliuk-red?style=flat&logo=Gmail&logoColor=white)](mailto:illiateliuk@gmail.com)
 *   :flags: Languages: 🇺🇦 🇺🇸 🇩🇪
 *   :tada: Some of my hobbies:
