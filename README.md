@@ -159,12 +159,13 @@ I'm just a 19-year-old guy, whose passion is programming and creating something 
    
 <div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
   <a href="https://www.codewars.com/users/s1uns" style="flex: 0 0 50%; display: flex; align-items: center; box-sizing: border-box; text-decoration: none;">
-    <img src="https://github.r2v.ch/codewars?user=s1uns&amp;name=true&amp;top_languages=true&amp;stroke=%23b362ff&amp;theme=gradient_purple_dark_by_level" alt="Codewars" style="max-width: 100%; height: auto;">
+    <img src="https://github.r2v.ch/codewars?user=s1uns&amp;name=true&amp;top_languages=true&amp;stroke=%23b362ff&amp;theme=gradient_purple_dark_by_level" alt="Codewars" style="width: auto; height: auto;">
   </a>
   <a href="https://leetcode.com/s1uns/" style="flex: 0 0 50%; display: flex; align-items: center; box-sizing: border-box; text-decoration: none;">
-    <img src="https://leetcard.jacoblin.cool/s1uns" alt="Leetcode" style="max-width: 100%; height: auto;">
+    <img src="https://leetcard.jacoblin.cool/s1uns" alt="Leetcode" style="width: auto; height: auto;">
   </a>
 </div>
+
 
 
    
