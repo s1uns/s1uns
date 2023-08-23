@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdpdGdva2JweWk3aDJ4ajFiOWxuMm1ma3RvcjE5Z2p1dXlqZnc1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zXmbOaTpbY6mA/200.gif" style="width: 3544px" />
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="width: 3544px" />
 </div>  
 
 My name is Illia Teliuk
