@@ -2,7 +2,7 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="width: 3544px" />
 </div>  
 
-My name is Illia Teliuk
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Illia Teliuk
 ====================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+.NET/React+Developer)](https://github.com/s1uns)
 ------------------------------
