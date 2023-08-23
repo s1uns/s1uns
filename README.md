@@ -1,7 +1,10 @@
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdpdGdva2JweWk3aDJ4ajFiOWxuMm1ma3RvcjE5Z2p1dXlqZnc1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zXmbOaTpbY6mA/200.gif" style="width: 300%" />
+</div>  
+
 My name is Illia Teliuk
 ====================================================================================================================================
-
-Fullstack .NET/React Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+.NET/React+Developer)](https://github.com/s1uns)
 ------------------------------
 
 I'm just a 19-year-old guy, whose passion is programming and creating something new. I won't take your time with reading a huge article about default facts from a programming beginner. I just offer you my services and time, promising to do everything possible to accomplish your wish as fast and qualitatively as possible.
