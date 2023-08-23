@@ -101,12 +101,10 @@ I'm just a 19-year-old guy, whose passion is programming and creating something 
 </table>
 
 
-### Socials
-------------------------------
 
-    
-<div style="display: flex; justify-content: center;">
-  <p align="left">      
+
+   ## Socials
+<div align="center">     
     <a href="https://www.github.com/s1uns" target="_blank" rel="noreferrer"> 
       <picture> 
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
@@ -154,19 +152,20 @@ I'm just a 19-year-old guy, whose passion is programming and creating something 
    <a href="https://steamcommunity.com/profiles/76561198263658237" target="blank">
       <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/steam.svg" alt="s1uns" height="32" width="32" />
     </a>
-  </p>
+</div> 
 
 [![Spotify](https://novatorem-xr5l-s1uns.vercel.app/api/spotify)](https://open.spotify.com/user/wr1d7hg9zmev2en6t21052z8h?si=5b54f55bbac84d64)
  
    
-  <div style="display: flex; align-items: center;">
-    <a href="https://www.codewars.com/users/s1uns" style="display: flex; align-items: center;">
-      <img src="https://github.r2v.ch/codewars?user=s1uns&amp;name=true&amp;top_languages=true&amp;stroke=%23b362ff&amp;theme=gradient_purple_dark_by_level" alt="Codewars" style="max-width: 50%; height: auto;">
-    </a>
-    <a href="https://leetcode.com/s1uns/" style="display: flex; align-items: center;">
-      <img src="https://leetcard.jacoblin.cool/s1uns" alt="Leetcode" style="max-width: 50%; height: auto;">
-    </a>
-  </div>
+ <div style="display: flex; align-items: center;">
+  <a href="https://www.codewars.com/users/s1uns" style="display: flex; align-items: center; flex-grow: 1;">
+    <img src="https://github.r2v.ch/codewars?user=s1uns&amp;name=true&amp;top_languages=true&amp;stroke=%23b362ff&amp;theme=gradient_purple_dark_by_level" alt="Codewars" style="max-width: 100%; height: auto;">
+  </a>
+  <a href="https://leetcode.com/s1uns/" style="display: flex; align-items: center; flex-grow: 1;">
+    <img src="https://leetcard.jacoblin.cool/s1uns" alt="Leetcode" style="max-width: 100%; height: auto;">
+  </a>
+</div>
+
    
   
   
