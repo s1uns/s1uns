@@ -151,11 +151,18 @@ I'm just a 19 year old guy, whose passion is programming and creating something 
       <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/steam.svg" alt="s1uns" height="32" width="32" />
     </a>
   </p>
-</div>     
-            
-  [![image](https://www.codewars.com/users/s1uns/badges/large)](https://www.codewars.com/users/s1uns)
 
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/s1uns)](https://leetcode.com/s1uns) 
-  [![Spotify](https://novatorem-xr5l-s1uns.vercel.app/api/spotify)](https://open.spotify.com/user/5b31a2fb9b5a4c8cbb62a17e594afdef)
+[![Spotify](https://novatorem-xr5l-s1uns.vercel.app/api/spotify)](https://open.spotify.com/user/5b31a2fb9b5a4c8cbb62a17e594afdef)
  
+   
+  <div style="display: flex; align-items: center;">
+    <a href="https://www.codewars.com/users/s1uns" style="display: flex; align-items: center;">
+      <img src="https://github.r2v.ch/codewars?user=s1uns&amp;name=true&amp;top_languages=true&amp;stroke=%23b362ff&amp;theme=gradient_purple_dark_by_level" alt="Codewars" style="max-width: 100%; height: auto;">
+    </a>
+    <a href="https://leetcode.com/s1uns/" style="display: flex; align-items: center;">
+      <img src="https://leetcard.jacoblin.cool/s1uns" alt="Leetcode" style="max-width: 100%; height: auto;">
+    </a>
+  </div>
+   
+  
   
