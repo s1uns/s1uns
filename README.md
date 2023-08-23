@@ -157,14 +157,15 @@ I'm just a 19-year-old guy, whose passion is programming and creating something 
 [![Spotify](https://novatorem-xr5l-s1uns.vercel.app/api/spotify)](https://open.spotify.com/user/wr1d7hg9zmev2en6t21052z8h?si=5b54f55bbac84d64)
  
    
- <div style="display: flex; align-items: center;">
-  <a href="https://www.codewars.com/users/s1uns" style="display: flex; align-items: center; flex-grow: 1;">
+<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+  <a href="https://www.codewars.com/users/s1uns" style="flex: 0 0 50%; display: flex; align-items: center; box-sizing: border-box; text-decoration: none;">
     <img src="https://github.r2v.ch/codewars?user=s1uns&amp;name=true&amp;top_languages=true&amp;stroke=%23b362ff&amp;theme=gradient_purple_dark_by_level" alt="Codewars" style="max-width: 100%; height: auto;">
   </a>
-  <a href="https://leetcode.com/s1uns/" style="display: flex; align-items: center; flex-grow: 1;">
+  <a href="https://leetcode.com/s1uns/" style="flex: 0 0 50%; display: flex; align-items: center; box-sizing: border-box; text-decoration: none;">
     <img src="https://leetcard.jacoblin.cool/s1uns" alt="Leetcode" style="max-width: 100%; height: auto;">
   </a>
 </div>
+
 
    
   
