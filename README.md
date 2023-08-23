@@ -152,7 +152,7 @@ I'm just a 19 year old guy, whose passion is programming and creating something 
     </a>
   </p>
 
-[![Spotify](https://novatorem-xr5l-s1uns.vercel.app/api/spotify)](https://open.spotify.com/user/5b31a2fb9b5a4c8cbb62a17e594afdef)
+[![Spotify](https://novatorem-xr5l-s1uns.vercel.app/api/spotify)](https://open.spotify.com/user/wr1d7hg9zmev2en6t21052z8h?si=5b54f55bbac84d64)
  
    
   <div style="display: flex; align-items: center;">
