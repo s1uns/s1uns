@@ -6,10 +6,19 @@ Fullstack .NET/React Developer
 
 I'm just a 19 year old guy, whose passion is programming and creating something new. I won't take your time with reading a huge article about default facts from a programming beginner. I just offer you my services and time, promising to do everything possible to accomplish your wish as fast and qualitatively as possible.
 
-*   🌍  I'm based in Dnipro, Ukraine
-*   ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-illiateliuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/s1uns1337) [![Gmail Badge](https://img.shields.io/badge/-IlliaTeliuk-red?style=flat&logo=Gmail&logoColor=white)](mailto:illiateliuk@gmail.com)
+*   :earth_africa: I'm based in Dnipro, Ukraine
+*   :neckbeard: Stydying at Kharkiv National University of Radioelectronics
+*   :envelope: You can contact me at [![Telegram Badge](https://img.shields.io/badge/-illiateliuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/s1uns1337) / [![Gmail Badge](https://img.shields.io/badge/-IlliaTeliuk-red?style=flat&logo=Gmail&logoColor=white)](mailto:illiateliuk@gmail.com)
+*   :flags: Languages: 🇺🇦 🇺🇸 🇩🇪
+*   :tada: Some of my hobbies:
+    * :video_game: videogames
+    * :headphones: music
+    * :book: books
+    * :trollface: humor
+    * :sleeping_bed: sleep
+    * :movie_camera: movies
 
-
+ Sometimes I can spend a bunch of hours editing a funny video with me or my friends in VEGAS PRO. I also can do the same thing to some pics in Photoshop.
 
 
 ## Skills  
@@ -53,7 +62,8 @@ I'm just a 19 year old guy, whose passion is programming and creating something 
 
 ### Instruments  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
@@ -83,19 +93,11 @@ I'm just a 19 year old guy, whose passion is programming and creating something 
 
 
 ### Socials
-  [![image](https://www.codewars.com/users/s1uns/badges/large)](https://www.codewars.com/users/s1uns)
+
+
+    
 <div style="display: flex; justify-content: center;">
-  <p align="left">                                 
-    <a href="https://discord.com/users/s1uns" target="_blank" rel="noreferrer"> 
-      <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
-      </picture> 
-    </a>
-    <a href="https://www.leetcode.com/s1uns" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s1uns" height="35" width="35" />
-    </a>
+  <p align="left">      
     <a href="https://www.github.com/s1uns" target="_blank" rel="noreferrer"> 
       <picture> 
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
@@ -103,6 +105,13 @@ I'm just a 19 year old guy, whose passion is programming and creating something 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
       </picture> 
     </a> 
+    <a href="https://discord.com/users/s1uns" target="_blank" rel="noreferrer"> 
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
+      </picture> 
+    </a>
     <a href="http://www.instagram.com/s1uns1337" target="_blank" rel="noreferrer"> 
       <picture> 
         <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
@@ -133,10 +142,15 @@ I'm just a 19 year old guy, whose passion is programming and creating something 
     </a>
 <a href="https://www.codepen.io/s1uns1337" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a>
     <a href="https://www.twitch.tv/s1uns1337" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a>
+        <a href="https://steamcommunity.com/profiles/76561198263658237" target="blank">
+      <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/steam.svg" alt="s1uns" height="32" width="32" />
+    </a>
   </p>
-</div>
+</div>     
+            
+  [![image](https://www.codewars.com/users/s1uns/badges/large)](https://www.codewars.com/users/s1uns)
 
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/s1uns)](https://leetcode.com/s1uns) 
   [![Spotify](https://novatorem-xr5l-s1uns.vercel.app/api/spotify)](https://open.spotify.com/user/5b31a2fb9b5a4c8cbb62a17e594afdef)
-
  
   
