@@ -98,7 +98,7 @@ I'm just a 19 year old guy, whose passion is programming and creating something 
 
 
 ### Socials
-
+------------------------------
 
     
 <div style="display: flex; justify-content: center;">
