@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack .NET/React Developer
 ------------------------------
 
-I'm just a 19 year old guy, whose passion is programming and creating something new. I won't take your time with reading a huge article about default facts from a programming beginner. I just offer you my services and time, promising to do everything possible to accomplish your wish as fast and qualitatively as possible.
+I'm just a 19-year-old guy, whose passion is programming and creating something new. I won't take your time with reading a huge article about default facts from a programming beginner. I just offer you my services and time, promising to do everything possible to accomplish your wish as fast and qualitatively as possible.
 
 *   :earth_africa: I'm based in Dnipro, Ukraine
 *   :neckbeard: Studying at Kharkiv National University of Radioelectronics
