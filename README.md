@@ -37,10 +37,10 @@ I'm just a 19-year-old guy, whose passion is programming and creating something 
 <!--<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  -->
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/tailwind.png" alt="Tailwind CSS" height="50" /></a> 
 <!--<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  -->
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/javascript.png" alt="JavaScript" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/javascript.png" alt="JavaScript" height="50" /></a> 
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/typescript.png" alt="TypeScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/react.png" alt="React" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/mui" alt="Material UI" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/webpack.png" alt="Webpack" height="50" /></a>  
 </div>
 
