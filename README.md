@@ -124,37 +124,49 @@ I'm just a 19-year-old guy, whose passion is programming and creating something 
     </a>
     <a href="http://www.instagram.com/s1uns1337" target="_blank" rel="noreferrer"> 
       <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/instagram.png" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/instagram.png" /> 
+        <img src="https://github.com/s1uns/s1uns/blob/main/Socials/instagram.png" width="32" height="32" /> 
       </picture> 
     </a> 
     <a href="https://www.linkedin.com/in/illiateliuk" target="_blank" rel="noreferrer"> 
       <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/linkedin.png" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/linkedin.png" /> 
+        <img src="https://github.com/s1uns/s1uns/blob/main/Socials/linkedin.png" width="32" height="32" /> 
       </picture> 
     </a> 
     <a href="https://www.stackoverflow.com/users/17173989/s1uns" target="_blank" rel="noreferrer"> 
       <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/stack-overflow.png" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/stack-overflow.png" /> 
+        <img src="https://github.com/s1uns/s1uns/blob/main/Socials/stack-overflow.png" /> 
       </picture> 
     </a> 
     <a href="https://www.x.com/s1uns1337" target="_blank" rel="noreferrer"> 
       <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/x.png" /> 
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/x.png" /> 
+        <img src="https://github.com/s1uns/s1uns/blob/main/Socials/x.png" width="32" height="32" /> 
       </picture> 
-    </a>
-<a href="https://www.codepen.io/s1uns1337" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a>
-    <a href="https://www.twitch.tv/s1uns1337" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a>
+   </a>
+   <a href="https://www.codepen.io/s1uns1337" target="_blank" rel="noreferrer"> 
+      <picture> 
+         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/codepen.png" /> 
+         <source media="(prefers-color-scheme: light)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/codepen.png" /> 
+         <img src="https://github.com/s1uns/s1uns/blob/main/Socials/codepen.png" width="32" height="32" /> 
+      </picture> 
+   </a>
+   <a href="https://www.twitch.tv/s1uns1337" target="_blank" rel="noreferrer"> 
+      <picture> 
+         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/twitch.png" /> 
+         <source media="(prefers-color-scheme: light)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/twitch.png" /> 
+         <img src="https://github.com/s1uns/s1uns/blob/main/Socials/twitch.png" width="32" height="32" /> 
+      </picture> 
+   </a>
    <a href="https://steamcommunity.com/profiles/76561198263658237" target="blank">
-      <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/steam.svg" alt="s1uns" height="32" width="32" />
-    </a>
+      <img src="https://github.com/s1uns/s1uns/blob/main/Socials/steam.png" alt="s1uns" height="32" width="32" />
+   </a>
 </div> 
 
 ------------------------------
