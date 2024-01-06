@@ -140,7 +140,7 @@ I'm just a 19-year-old guy, whose passion is programming and creating something 
       <picture> 
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/stack-overflow.png" /> 
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/stack-overflow.png" /> 
-        <img src="https://github.com/s1uns/s1uns/blob/main/Socials/stack-overflow.png" /> 
+        <img src="https://github.com/s1uns/s1uns/blob/main/Socials/stack-overflow.png" width="32" height="32" /> 
       </picture> 
     </a> 
     <a href="https://www.x.com/s1uns1337" target="_blank" rel="noreferrer"> 
