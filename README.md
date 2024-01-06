@@ -50,18 +50,18 @@ I'm just a 19-year-old guy, whose passion is programming and creating something 
 
 ### Backend  
 <div align="center"> 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/508894/aspnet.svg" alt="ASPNet" height="50" /></a>
-<a href="https://learn.microsoft.com/dotnet/framework/data/adonet" target="_blank"><img style="margin: 10px" src="https://www.pragimtech.com/wp-content/uploads/2019/08/ado-net.jpg" alt="ADONet" height="50" /></a>
-<a href="https://github.com/DapperLib/Dapper/tree/main" target="_blank"><img style="margin: 10px" src="https://github.com/DapperLib/Dapper/blob/main/Dapper.png" alt="Dapper" height="45" /></a>   
-<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank"><img style="margin: 10px" src="https://plugins.jetbrains.com/files/18147/369608/icon/pluginIcon.svg" alt="EfCore" height="50" /></a>
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>   
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQLServer" height="50" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/cS.png" alt="C#" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/netFramework.png" alt=".NET" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/netCore.png" alt=".Net Core" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/aspNet.png" alt="ASPNet" height="50" /></a>
+<a href="https://learn.microsoft.com/dotnet/framework/data/adonet" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/adoNet.png" alt="ADONet" height="50" /></a>
+<a href="https://github.com/DapperLib/Dapper/tree/main" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/dapper.png" alt="Dapper" height="45" /></a>   
+<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/efCore.png" alt="EfCore" height="50" /></a>
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/oracle.png" alt="Oracle" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/postgreSQL.png" alt="PostgreSQL" height="50" /></a>   
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/mySQL.png" alt="MySQL" height="50" /></a> 
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/mongoDB.png" alt="MongoDB" height="50" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/SQLServer.png" alt="MSSQLServer" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
