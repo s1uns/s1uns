@@ -19,9 +19,7 @@ I'm just a 19-year-old guy, you'll know more about me at the job interview.
     * :trollface: humor
     * :sleeping_bed: sleep
     * :movie_camera: movies
-
- Sometimes I can spend a bunch of hours editing a funny video with me or my friends in VEGAS PRO. I also can do the same thing to some pics in Photoshop.
-
+------------------------------
 
 ## Skills  
 <table><tr><td valign="top" width="33%">
