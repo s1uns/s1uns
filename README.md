@@ -4,7 +4,7 @@
 
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Illia Teliuk
 ====================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+.NET/React+Developer)](https://github.com/s1uns)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+ASP.NET/React+Developer)](https://github.com/s1uns)
 ------------------------------
 
 I'm just a 19-year-old guy, you'll know more about me at the job interview.
@@ -32,7 +32,7 @@ I'm just a 19-year-old guy, you'll know more about me at the job interview.
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/css.png" alt="CSS3" height="50" /></a>  
 <!--<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>-->  
 <!--<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  -->
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/tailwind.png" alt="Tailwind CSS" height="50" /></a> 
+<!--<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/tailwind.png" alt="Tailwind CSS" height="50" /></a> -->
 <!--<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  -->
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/javascript.png" alt="JavaScript" height="50" /></a> 
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/typescript.png" alt="TypeScript" height="50" /></a>  
@@ -70,7 +70,7 @@ I'm just a 19-year-old guy, you'll know more about me at the job interview.
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Instruments/git.png" alt="Git" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Instruments/gitHub.png" alt="GitHub" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Instruments/gitLab.png" alt="GitLab" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Instruments/docker.png" alt="Docker" height="50" /></a>  
+<!--<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Instruments/docker.png" alt="Docker" height="50" /></a>  -->
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Instruments/linux.png" alt="Linux" height="50" /></a> 
 <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Instruments/sonyVegas.png" alt="VEGASPro" height="50" /></a> 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Instruments/photoshop.png" alt="Photoshop" height="50" /></a>  
