@@ -6,6 +6,9 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 ====================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+ASP.NET/React+Developer)](https://github.com/s1uns)
 ------------------------------
+<img src="https://github.com/s1uns/s1uns/blob/main/Greetings/waltuh.gif" width="35" height="35"> My code is 99.1% pure <img src="https://github.com/s1uns/s1uns/blob/main/Greetings/waltuh.gif" width="35" height="35">
+ ------------------------------
+
 
 I'm just a 19-year-old guy, you'll know more about me at the job interview.
 *   :earth_africa: I'm based in Dnipro, Ukraine
