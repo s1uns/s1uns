@@ -173,7 +173,7 @@ I'm just a 19-year-old guy, you'll know more about me at the job interview.
 
 ------------------------------
 
-[![Spotify](https://novatorem-xr5l-s1uns.vercel.app/api/spotify)](https://open.spotify.com/user/wr1d7hg9zmev2en6t21052z8h?si=5b54f55bbac84d64)
+<!--[![Spotify](https://novatorem-xr5l-s1uns.vercel.app/api/spotify)](https://open.spotify.com/user/wr1d7hg9zmev2en6t21052z8h?si=5b54f55bbac84d64) -->
  
    
 <div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
