@@ -53,7 +53,9 @@ I'm just a 19-year-old guy, you'll know more about me at the job interview.
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/netFramework.png" alt=".NET" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/netCore.png" alt=".Net Core" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/aspNet.png" alt="ASPNet" height="50" /></a>
-<a href="https://learn.microsoft.com/dotnet/framework/data/adonet" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/adoNet.png" alt="ADONet" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/python.png" alt="Python" height="50" /></a>
+ <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/fastAPI.png" alt="FastAPI" height="50" /></a>
+ <a href="https://learn.microsoft.com/dotnet/framework/data/adonet" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/adoNet.png" alt="ADONet" height="50" /></a>
 <a href="https://github.com/DapperLib/Dapper/tree/main" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/dapper.png" alt="Dapper" height="45" /></a>   
 <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/efCore.png" alt="EfCore" height="50" /></a>
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/oracle.png" alt="Oracle" height="50" /></a>  
