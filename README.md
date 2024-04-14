@@ -22,11 +22,14 @@ I'm just a 19-year-old guy, you'll know more about me at the job interview.
     * :trollface: humor
     * :sleeping_bed: sleep
     * :movie_camera: movies
-------------------------------
-
+ 
 Some of my achievements:  
 — Prize-winner of the Junior Academy of Sciences of Ukraine  
 — Twice awardee in Proggy-Buggy Contest
+
+------------------------------
+
+
 
 ## Skills  
 <table><tr><td valign="top" width="33%">
