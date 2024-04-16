@@ -4,7 +4,7 @@
 
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Illia Teliuk
 ====================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+ASP.NET/React+Developer)](https://github.com/s1uns)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Software+Engineer)](https://github.com/s1uns)
 ------------------------------
 <img src="https://github.com/s1uns/s1uns/blob/main/Greetings/waltuh.gif" width="35" height="35"> My code is 99.1% pure <img src="https://github.com/s1uns/s1uns/blob/main/Greetings/waltuh.gif" width="35" height="35">
  ------------------------------
