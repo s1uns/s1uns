@@ -15,13 +15,13 @@ I'm just a 19-year-old guy, you'll know more about me at the job interview.
 *   :neckbeard: Studying at Kharkiv National University of Radioelectronics
 *   :envelope: You can contact me at [![Telegram Badge](https://img.shields.io/badge/-illiateliuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/s1uns1337) / [![Gmail Badge](https://img.shields.io/badge/-IlliaTeliuk-red?style=flat&logo=Gmail&logoColor=white)](mailto:illiateliuk@gmail.com)
 *   :flags: Languages: 🇺🇦 🇺🇸 🇩🇪
-*   :tada: Some of my hobbies:
+<!--*   :tada: Some of my hobbies:
     * :video_game: videogames
     * :headphones: music
     * :book: books
     * :trollface: humor
     * :sleeping_bed: sleep
-    * :movie_camera: movies
+    * :movie_camera: movies -->
  
 Some of my achievements:  
 — Prize-winner of the Junior Academy of Sciences of Ukraine  
