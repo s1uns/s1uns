@@ -25,7 +25,7 @@ I'm just a 19-year-old guy, you'll know more about me at the job interview.
  
 Some of my achievements:  
 — Prize-winner of the Junior Academy of Sciences of Ukraine  
-— Twice awardee in Proggy-Buggy Contest
+— Thrice awardee in Proggy-Buggy Contest
 
 ------------------------------
 
