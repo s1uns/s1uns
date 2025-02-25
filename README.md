@@ -133,7 +133,7 @@ Some of my achievements:
         <img src="https://github.com/s1uns/s1uns/blob/main/Socials/discord.png" width="32" height="32" /> 
       </picture> 
     </a>
-    <a href="http://www.instagram.com/s1uns1337" target="_blank" rel="noreferrer"> 
+    <a href="http://www.instagram.com/s1uns.png" target="_blank" rel="noreferrer"> 
       <picture> 
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/instagram.png" /> 
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/s1uns/s1uns/blob/main/Socials/instagram.png" /> 
