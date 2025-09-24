@@ -10,9 +10,10 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
  ------------------------------
 
 
-I'm just a 20-year-old guy, you'll know more about me at the job interview.
+I'm just a 21-year-old guy, you'll know more about me at the job interview.
 *   :earth_africa: I'm based in Dnipro, Ukraine
-*   :neckbeard: Studying at Kharkiv National University of Radioelectronics
+*   :neckbeard: Graduate of Kharkiv National University of Radioelectronics (Software Engineering)  
+🎓 Currently pursuing a Master's degree at the National Technical University of Ukraine "Kyiv Polytechnic Institute"
 *   :envelope: You can contact me at [![Telegram Badge](https://img.shields.io/badge/-illiateliuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/s1uns1337) / [![Gmail Badge](https://img.shields.io/badge/-IlliaTeliuk-red?style=flat&logo=Gmail&logoColor=white)](mailto:illiateliuk@gmail.com)
 *   :flags: Languages: 🇺🇦 🇺🇸 🇩🇪
 <!--*   :tada: Some of my hobbies:
