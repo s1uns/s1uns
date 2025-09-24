@@ -50,6 +50,8 @@ Some of my achievements:
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/next.png" alt="Next" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/webpack.png" alt="Webpack" height="50" /></a>  
+<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Front-end/reactNative.png" alt="ReactNative" height="50" /></a>  
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -58,13 +60,15 @@ Some of my achievements:
 
 ### Backend  
 <div align="center"> 
+<a href="https://nodejs.org/en" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/nodejs.png" alt="NodeJS" height="50" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/expressjs.png" alt="ExpressJS" height="50" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/cS.png" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/netFramework.png" alt=".NET" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/netCore.png" alt=".Net Core" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/aspNet.png" alt="ASPNet" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/python.png" alt="Python" height="50" /></a>
- <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/fastAPI.png" alt="FastAPI" height="50" /></a>
- <a href="https://learn.microsoft.com/dotnet/framework/data/adonet" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/adoNet.png" alt="ADONet" height="50" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/fastAPI.png" alt="FastAPI" height="50" /></a>
+<a href="https://learn.microsoft.com/dotnet/framework/data/adonet" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/adoNet.png" alt="ADONet" height="50" /></a>
 <a href="https://github.com/DapperLib/Dapper/tree/main" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/dapper.png" alt="Dapper" height="45" /></a>   
 <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/efCore.png" alt="EfCore" height="50" /></a>
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/s1uns/s1uns/blob/main/Skills/Back-end/oracle.png" alt="Oracle" height="50" /></a>  
